@@ -1,9 +1,9 @@
 # World-Happiness-Report
 
 Data Source
-https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv
+https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv<br>
 
-#Questions Framed for analysis and visualization
+#Questions Framed for analysis and visualization<br><br>
 1.Which countries are better positioned in each of the aspects?<br>
 2.Finding the reason why happiness rank changed over the years in different regions?<br>
 3.In what ways, generosity and life expectancy(health) plays a role in impacting the world happiness score? <br>
